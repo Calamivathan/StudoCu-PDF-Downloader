@@ -26,7 +26,7 @@ Paste your StuDocu document link, hit fetch, and get your document. That's it.
 
 ## How to Use
 
-1. Go to [studocu.aiodownloader.online](https://studocu.aiodownloader.online/)
+1. Go to [studocu Pdf Downloader by calamivathan](https://aiodownloader.online/)
 2. Paste any StuDocu document URL
 3. Hit **Fetch**
 4. Wait for it to finish
@@ -91,4 +91,5 @@ Made by [Calamivathan](https://github.com/Calamivathan)
 ---
 
 *This project is for educational use only. The developer is not responsible for misuse. Use at your own discretion and respect intellectual property laws.*
+
 
