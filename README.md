@@ -6,7 +6,7 @@ What started as a Chrome extension is now just a website. No installs. No setup.
 
 **Just go here and start studying:**
 
-### https://studocu.aiodownloader.online/
+### https://aiodownloader.online/
 
 Paste your StuDocu document link, hit fetch, and get your document. That's it.
 
@@ -91,3 +91,4 @@ Made by [Calamivathan](https://github.com/Calamivathan)
 ---
 
 *This project is for educational use only. The developer is not responsible for misuse. Use at your own discretion and respect intellectual property laws.*
+
