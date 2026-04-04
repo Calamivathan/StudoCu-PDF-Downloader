@@ -1,4 +1,4 @@
-# StuDocu Downloader
+# StuDocu Downloader - Get this PDF
 
 ### We finally did it.
 
