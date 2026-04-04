@@ -15,7 +15,6 @@ Paste your StuDocu document link, hit fetch, and get your document. That's it.
 ## What You Get
 
 - **Premium document access** — full, unblurred pages
-- **No ads** — zero, none, not a single one
 - **No tracking** — we don't collect or store any personal data
 - **No login required** — no accounts, no sign-ups
 - **No setup** — no extensions, no downloads, no developer mode nonsense
