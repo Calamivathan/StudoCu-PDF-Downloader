@@ -6,7 +6,7 @@ What started as a Chrome extension is now just a website. No installs. No setup.
 
 **Just go here and start studying:**
 
-### https://aiodownloader.online/
+### [https://getthispdf.com/](https://getthispdf.com/)
 
 Paste your StuDocu document link, hit fetch, and get your document. That's it.
 
