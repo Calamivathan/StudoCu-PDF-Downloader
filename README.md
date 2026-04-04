@@ -25,7 +25,7 @@ Paste your StuDocu document link, hit fetch, and get your document. That's it.
 
 ## How to Use
 
-1. Go to [studocu Pdf Downloader by calamivathan](https://getthispdf.com/)
+1. Go to [Get this PDF by calamivathan](https://getthispdf.com/)
 2. Paste any StuDocu document URL
 3. Hit **Fetch**
 4. Wait for it to finish
